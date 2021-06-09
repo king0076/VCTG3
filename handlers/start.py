@@ -13,8 +13,8 @@ async def start_(client: Client, message: Message):
     await message.reply_text(
         f"""<b>Hi {message.from_user.first_name}!
 \nI can play music in your group's voice chat
-Maintained by @hayper007 👍
-\nTo add in your group contact us at @hayper007.
+Maintained by @HEENA3434 😍
+\nTo add in your group contact us at @HEENA3434.
 \nHit /help list of available commands.
  </b>""",
       
@@ -23,23 +23,23 @@ Maintained by @hayper007 👍
             [
                 [
                     InlineKeyboardButton(
-                        "🌍 Music World", url="https://t.me/Moviegroup321",
+                        "🌍 Music World", url="https://t.me/ONLY_MY_FRND",
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/Moviegroup321"
+                        "💬 Group", url="https://t.me/ONLY_MY_FRND"
                     ),
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/Moviegroup321"
+                        "🔊 Channel", url="https://t.me/ONLY_MY_FRND"
                     ),
                     InlineKeyboardButton(
-                        "💾 Source code", url="https://github.com/kingboyss/VCTGBOT"
+                        "💾 Source code", url="https://t.me/ONLY_MY_FRND"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "➕ Add To Your Group ➕", url="https://t.me/TheMp3Playebot?startgroup=true"
+                        "➕ Add To Your Group ➕", url="https://t.me/ONLY_MY_FRND"
                     ) 
                 ]
             ]
@@ -58,7 +58,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/Moviegroup321"
+                        "🔊 Channel", url="https://t.me/LOVE_WORD_20_1"
                     )
                 ],    
                 [    
@@ -104,7 +104,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/Moviegroup321"
+                        "🔊 Channel", url="https://t.me/Zxmodeapk"
                     )
                 ]
             ]
